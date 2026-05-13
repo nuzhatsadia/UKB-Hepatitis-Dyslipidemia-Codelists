@@ -24,5 +24,5 @@ Hepatitis codelist/: Contains ICD-9, ICD-10, CTV3, and Read2 codes for hepatitis
 Usage
 These lists were curated for a retrospective cohort study.
 
-Reference
+Reference: 
 UK Biobank. (n.d.-b). UK Biobank resource 592: Clinical coding classification systems and maps.
