@@ -1,0 +1,120 @@
+read_code,icd10_code,term.x,term.y
+C32..,E789,"Disorder of lipoprotein metabolism, unspecified",Disorders of lipoid metabolism (& [cholesterol])
+C320.,E780,Pure hypercholesterolaemia,(Hyperchol:[pure][fam])/(Fredr IIa lip)/(low dens lipoprot)
+C3200,E780,Pure hypercholesterolaemia,Familial hyperbetalipoproteinaemia
+C3201,E780,Pure hypercholesterolaemia,Hyperbetalipoproteinaemia
+C3202,E780,Pure hypercholesterolaemia,"Hyperlipidaemia, group A"
+C320y,E780,Pure hypercholesterolaemia,Other specified pure hypercholesterolaemia
+C320z,E780,Pure hypercholesterolaemia,Pure hypercholesterolaemia NOS
+C321.,E781,Pure hyperglyceridaemia,(Pure hyperglycerid)/(Fredric IV lip)/(v low dens lipoprot)
+C322.,E782,Mixed hyperlipidaemia,NA
+C324.,E785,"Hyperlipidaemia, unspecified",Hyperlipidaemia NOS
+C325.,E786,Lipoprotein deficiency,Lipoprotein deficiency (& [Tangier disease])
+C3250,E786,Lipoprotein deficiency,High density lipoid deficiency
+C3251,E786,Lipoprotein deficiency,Hypoalphalipoproteinaemia
+C3252,E786,Lipoprotein deficiency,Hypo-beta-lipoproteinaemia
+C3253,E786,Lipoprotein deficiency,Abetalipoproteinaemia
+C325z,E786,Lipoprotein deficiency,Lipoprotein deficiency NOS
+C32y.,E788,Other disorders of lipoprotein metabolism,Other disorders of lipoid metabolism
+C32yz,E788,Other disorders of lipoprotein metabolism,Other disorder of lipoid metabolism NOS
+C32z.,E789,"Disorder of lipoprotein metabolism, unspecified",Disorder of lipoid metabolism NOS
+Cyu8D,E784,Other hyperlipidaemia,[X]Other hyperlipidaemia
+Cyu8E,E788,Other disorders of lipoprotein metabolism,NA
+X003s,E786,Lipoprotein deficiency,NA
+X00dK,E785,"Hyperlipidaemia, unspecified",NA
+X20DV,E785,"Hyperlipidaemia, unspecified",NA
+X20DW,E786,Lipoprotein deficiency,NA
+X40Uu,E789,"Disorder of lipoprotein metabolism, unspecified",Disorder of lipid and lipoprotein metabolism
+X40VI,E786,Lipoprotein deficiency,NA
+X40VT,E789,"Disorder of lipoprotein metabolism, unspecified",NA
+X40VW,E788,Other disorders of lipoprotein metabolism,NA
+X40VY,E780,Pure hypercholesterolaemia,Cholesterol ester storage disease
+X40Vd,E780,Pure hypercholesterolaemia,NA
+X40Vf,E788,Other disorders of lipoprotein metabolism,Disorder of lipoprotein storage and metabolism
+X40Vg,E784,Other hyperlipidaemia,Familial hyperlipoproteinaemia
+X40Vh,E786,Lipoprotein deficiency,Familial lipoprotein lipase deficiency
+X40Vi,E786,Lipoprotein deficiency,Familial apolipoprotein C-II deficiency
+X40Vm,E784,Other hyperlipidaemia,Familial combined hyperlipidaemia
+X40Vn,E782,Mixed hyperlipidaemia,Familial type III hyperlipoproteinaemia
+X40Vo,E781,Pure hyperglyceridaemia,Familial hypertriglyceridaemia
+X40Vq,E786,Lipoprotein deficiency,Familial hypolipoproteinaemia
+X40Vs,E786,Lipoprotein deficiency,Familial hypobetalipoproteinaemia
+X40Vt,E786,Lipoprotein deficiency,Familial hypoalphalipoproteinaemia
+X40Wx,E789,"Disorder of lipoprotein metabolism, unspecified",Disorder of cholesterol metabolism
+X40Wy,E785,"Hyperlipidaemia, unspecified",Hyperlipidaemia
+X40Wz,E780,Pure hypercholesterolaemia,Primary hypercholesterolaemia
+X40X0,E780,Pure hypercholesterolaemia,Polygenic hypercholesterolaemia
+X40X1,E780,Pure hypercholesterolaemia,Familial hypercholesterolaemia - homozygous
+X40X2,E780,Pure hypercholesterolaemia,Familial hypercholesterolaemia - heterozygous
+X40X3,E780,Pure hypercholesterolaemia,Hyperalphalipoproteinaemia
+X40X5,E788,Other disorders of lipoprotein metabolism,Familial defective apolipoprotein B-100
+X40X6,E788,Other disorders of lipoprotein metabolism,Secondary hypercholesterolaemia
+X40X7,E781,Pure hyperglyceridaemia,Primary hypertriglyceridaemia
+X40X9,E781,Pure hyperglyceridaemia,Very low density lipoprotinaemia
+X40XA,E781,Pure hyperglyceridaemia,Fredrickson type IV hyperlipoproteinaemia
+X40XH,E781,Pure hyperglyceridaemia,Secondary hypertriglyceridaemia
+X40XI,E784,Other hyperlipidaemia,Primary combined hyperlipidaemia
+X40XO,E784,Other hyperlipidaemia,Secondary combined hyperlipidaemia
+X40XP,E788,Other disorders of lipoprotein metabolism,NA
+X40XQ,E786,Lipoprotein deficiency,Lecithin cholesterol acyltransferase deficiency
+X40XR,E786,Lipoprotein deficiency,Fish-eye disease
+X40XU,E786,Lipoprotein deficiency,Familial hypobetalipoproteinaemia - homozygous form
+X40XV,E786,Lipoprotein deficiency,Familial hypobetalipoproteinaemia - heterozygous form
+X40XW,E786,Lipoprotein deficiency,Apolipoprotein A-I deficiency
+X40XX,E786,Lipoprotein deficiency,Apolipoprotein A-I variant disorder
+X40XY,E786,Lipoprotein deficiency,Apo A-I Milano variant
+X40XZ,E786,Lipoprotein deficiency,Apo A-I Marburg variant
+X40Xa,E788,Other disorders of lipoprotein metabolism,ApoA-I Munster variant 1
+X40Xb,E786,Lipoprotein deficiency,ApoA-I Munster variant 2
+X40Xc,E786,Lipoprotein deficiency,ApoA-I Munster variant 3
+X40Xd,E786,Lipoprotein deficiency,Apo A-I Giessen variant
+X40Xe,E786,Lipoprotein deficiency,Apo A-I variant fisheye-like syndrome
+X40Xf,E788,Other disorders of lipoprotein metabolism,NA
+X40YU,E788,Other disorders of lipoprotein metabolism,NA
+X40Yg,E78,Disorders of lipoprotein metabolism and other lipidaemias,NA
+X50DQ,E788,Other disorders of lipoprotein metabolism,NA
+X50Dz,E788,Other disorders of lipoprotein metabolism,NA
+X50Fh,E788,Other disorders of lipoprotein metabolism,NA
+X50Fi,E788,Other disorders of lipoprotein metabolism,NA
+X50Fm,E782,Mixed hyperlipidaemia,NA
+X50Fp,E782,Mixed hyperlipidaemia,NA
+X76tz,E786,Lipoprotein deficiency,NA
+X78Tl,E782,Mixed hyperlipidaemia,NA
+X78Tp,E780,Pure hypercholesterolaemia,NA
+X78qa,E782,Mixed hyperlipidaemia,NA
+XE11R,E789,"Disorder of lipoprotein metabolism, unspecified",Disorder of lipid metabolism
+XE11S,E780,Pure hypercholesterolaemia,Pure hypercholesterolaemia
+XE11T,E781,Pure hyperglyceridaemia,Pure hyperglyceridaemia
+XE11U,E782,Mixed hyperlipidaemia,Mixed hyperlipidaemia
+XE11W,E786,Lipoprotein deficiency,Lipoprotein deficiency disorder
+Xa9As,E780,Pure hypercholesterolaemia,Hypercholesterolaemia
+Xa9At,E781,Pure hyperglyceridaemia,Hypertriglyceridaemia
+XaL5p,E788,Other disorders of lipoprotein metabolism,Dyslipidaemia
+XaR4h,E780,Pure hypercholesterolaemia,Famil hypercholesterolemia due to heterozyg LDL recept mutat
+XaR4i,E780,Pure hypercholesterolaemia,Famil hypercholesterolaemia due to homozyg LDL recept mutatn
+XaR4k,E780,Pure hypercholesterolaemia,Fam def apo B-100 (AND/OR [Fam hyper due gen def apo B-100])
+XaRG5,E788,Other disorders of lipoprotein metabolism,Low density lipoprotein receptor mutation
+44O3.,NA,NA,Serum lipids borderline raised
+44O4.,NA,NA,Serum lipids high
+44O6.,NA,NA,Lipids abnormal
+44P3.,NA,NA,Serum cholesterol raised
+44P4.,NA,NA,Serum cholesterol very high
+C323.,NA,NA,(Hyperchylomicron) or (Burg-Grut syn) or (Fredr lip: [I][V])
+C3270,NA,NA,Chemically-induced lipidosis
+C327z,NA,NA,Lipidoses: [familial xanthomatosis] or [NOS]
+X40Vp,NA,NA,Familial type V hyperlipoproteinaemia
+X40Ww,NA,NA,"Xanthomatosis, familial"
+X40XD,NA,NA,Fredrickson type I hyperlipoproteinaemia
+XE11V,NA,NA,Familial hyperchylomicronaemia
+XE11Y,NA,NA,Lipidoses
+XE11Z,NA,NA,Lipidoses NOS
+XE13A,NA,NA,Disord lipid metab (& [Fredrick types] or [hyperlipidaemia])
+XE13C,NA,NA,(Hypercholesterolaemia: [pure][familial]) or (cong xanthoma)
+Y1277,NA,NA,Cholesterol High
+Y35db,NA,NA,Secondary hyperlipidaemia
+Y35dc,NA,NA,Mixed hyperlipidaemia due to type 2 diabetes mellitus
+Y35dd,NA,NA,Mixed hyperlipidaemia due to type 1 diabetes mellitus
+Y35de,NA,NA,Hyperlipidaemia due to type 2 diabetes mellitus
+Y35df,NA,NA,Hyperlipidaemia due to type 1 diabetes mellitus
+Y35e0,NA,NA,Hyperlipidaemia caused by steroid
+Y35e1,NA,NA,Chemically induced hyperlipidaemia

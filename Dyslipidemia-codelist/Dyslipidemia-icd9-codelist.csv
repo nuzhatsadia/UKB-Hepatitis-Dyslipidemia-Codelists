@@ -1,0 +1,9 @@
+ICD9,DESCRIPTION_ICD9,ICD10,DESCRIPTION_ICD10,term
+2720,PURE HYPERCHOLESTEROLAEMIA,E780,Pure hypercholesterolaemia,Pure hypercholesterolaemia
+2721,PURE HYPERGLYCERIDAEMIA,E781,Pure hyperglyceridaemia,Pure hyperglyceridaemia
+2722,MIXED HYPERLIPIDAEMIA,E782,Mixed hyperlipidaemia,Mixed hyperlipidaemia
+2724,OTHER AND UNSPECIFIED HYPERLIPIDAEMIA,E784,Other hyperlipidaemia,Other hyperlipidaemia
+2724,OTHER AND UNSPECIFIED HYPERLIPIDAEMIA,E785,"Hyperlipidaemia, unspecified","Hyperlipidaemia, unspecified"
+2725,LIPOPROTEIN DEFICIENCIES,E786,Lipoprotein deficiency,Lipoprotein deficiency
+UNDEF,NA,E788,Other disorders of lipoprotein metabolism,Other disorders of lipoprotein metabolism
+2729,UNSPECIFIED DISORDERS OF LIPOID METABOLISM,E789,"Disorder of lipoprotein metabolism, unspecified","Disorder of lipoprotein metabolism, unspecified"

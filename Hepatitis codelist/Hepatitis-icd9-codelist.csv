@@ -1,0 +1,27 @@
+ICD9,DESCRIPTION_ICD9,ICD10,DESCRIPTION_ICD10,term
+0702,VIRAL HEPATITIS B WITH HEPATIC COMA,B160,Acute hep B with delta-agent (coinfection) with hep coma,Acute hepatitis B with delta-agent (coinfection) with hepatic coma
+0703,VIRAL HEPATITIS B WITHOUT MENTION OF HEPATIC COMA,B161,Acute hep B with delta-agent (coinfectn) without hep coma,Acute hepatitis B with delta-agent (coinfection) without hepatic coma
+0702,VIRAL HEPATITIS B WITH HEPATIC COMA,B162,Acute hepatitis B without delta-agent with hepatic coma,Acute hepatitis B without delta-agent with hepatic coma
+0703,VIRAL HEPATITIS B WITHOUT MENTION OF HEPATIC COMA,B169,Acute hep B without delta-agent and without hepat coma,Acute hepatitis B without delta-agent and without hepatic coma
+UNDEF,NA,B170,Acute delta-(super)infection of hepatitis B carrier,Acute delta-(super)infection in chronic hepatitis B
+0704,OTHER SPECIFIED VIRAL HEPATITIS WITH HEPATIC COMA,B171,Acute hepatitis C,Acute hepatitis C
+0705,OTHER SPECIFIED VIRAL HEPATITIS WITHOUT MENTION OF,B171,Acute hepatitis C,Acute hepatitis C
+0704,OTHER SPECIFIED VIRAL HEPATITIS WITH HEPATIC COMA,B178,Other specified acute viral hepatitis,Other specified acute viral hepatitis
+0705,OTHER SPECIFIED VIRAL HEPATITIS WITHOUT MENTION OF,B178,Other specified acute viral hepatitis,Other specified acute viral hepatitis
+0702,VIRAL HEPATITIS B WITH HEPATIC COMA,B180,Chronic viral hepatitis B with delta-agent,Chronic viral hepatitis B with delta-agent
+0703,VIRAL HEPATITIS B WITHOUT MENTION OF HEPATIC COMA,B180,Chronic viral hepatitis B with delta-agent,Chronic viral hepatitis B with delta-agent
+0702,VIRAL HEPATITIS B WITH HEPATIC COMA,B181,Chronic viral hepatitis B without delta-agent,Chronic viral hepatitis B without delta-agent
+0703,VIRAL HEPATITIS B WITHOUT MENTION OF HEPATIC COMA,B181,Chronic viral hepatitis B without delta-agent,Chronic viral hepatitis B without delta-agent
+0704,OTHER SPECIFIED VIRAL HEPATITIS WITH HEPATIC COMA,B182,Chronic viral hepatitis C,Chronic viral hepatitis C
+0705,OTHER SPECIFIED VIRAL HEPATITIS WITHOUT MENTION OF,B182,Chronic viral hepatitis C,Chronic viral hepatitis C
+0704,OTHER SPECIFIED VIRAL HEPATITIS WITH HEPATIC COMA,B188,Other chronic viral hepatitis,Other chronic viral hepatitis
+0705,OTHER SPECIFIED VIRAL HEPATITIS WITHOUT MENTION OF,B188,Other chronic viral hepatitis,Other chronic viral hepatitis
+0704,OTHER SPECIFIED VIRAL HEPATITIS WITH HEPATIC COMA,B189,"Chronic viral hepatitis, unspecified","Chronic viral hepatitis, unspecified"
+0705,OTHER SPECIFIED VIRAL HEPATITIS WITHOUT MENTION OF,B189,"Chronic viral hepatitis, unspecified","Chronic viral hepatitis, unspecified"
+0706,UNSPECIFIED VIRAL HEPATITIS WITH HEPATIC COMA,B190,Unspecified viral hepatitis hepatic with coma,Unspecified viral hepatitis with hepatic coma
+0709,UNSPECIFIED VIRAL HEPATITIS WITHOUT MENTION OF HEP,B199,Unspecified viral hepatitis without hepatic coma,Unspecified viral hepatitis without hepatic coma
+5714,CHRONIC HEPATITIS,K730,"Chronic persistent hepatitis, not elsewhere classified","Chronic persistent hepatitis, not elsewhere classified"
+5714,CHRONIC HEPATITIS,K731,"Chronic lobular hepatitis, not elsewhere classified","Chronic lobular hepatitis, not elsewhere classified"
+5714,CHRONIC HEPATITIS,K732,"Chronic active hepatitis, not elsewhere classified","Chronic active hepatitis, not elsewhere classified"
+5714,CHRONIC HEPATITIS,K738,"Other chronic hepatitis, not elsewhere classified","Other chronic hepatitis, not elsewhere classified"
+5714,CHRONIC HEPATITIS,K739,"Chronic hepatitis, unspecified","Chronic hepatitis, unspecified"

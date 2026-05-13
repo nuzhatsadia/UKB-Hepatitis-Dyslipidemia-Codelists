@@ -1,0 +1,30 @@
+read_code,icd10_code,term
+C32..,E789,"Disorder of lipoprotein metabolism, unspecified"
+C320.,E780,Pure hypercholesterolaemia
+C3200,E780,Pure hypercholesterolaemia
+C3201,E780,Pure hypercholesterolaemia
+C3202,E780,Pure hypercholesterolaemia
+C3203,E780,Pure hypercholesterolaemia
+C3204,E780,Pure hypercholesterolaemia
+C3205,E788,Other disorders of lipoprotein metabolism
+C3206,E780,Pure hypercholesterolaemia
+C320y,E780,Pure hypercholesterolaemia
+C320z,E780,Pure hypercholesterolaemia
+C321.,E781,Pure hyperglyceridaemia
+C3210,E781,Pure hyperglyceridaemia
+C322.,E782,Mixed hyperlipidaemia
+C3220,E784,Other hyperlipidaemia
+C324.,E785,"Hyperlipidaemia, unspecified"
+C325.,E786,Lipoprotein deficiency
+C3250,E786,Lipoprotein deficiency
+C3251,E786,Lipoprotein deficiency
+C3252,E786,Lipoprotein deficiency
+C3253,E786,Lipoprotein deficiency
+C325z,E786,Lipoprotein deficiency
+C328.,E788,Other disorders of lipoprotein metabolism
+C329.,E780,Pure hypercholesterolaemia
+C32y.,E788,Other disorders of lipoprotein metabolism
+C32yz,E788,Other disorders of lipoprotein metabolism
+C32z.,E789,"Disorder of lipoprotein metabolism, unspecified"
+Cyu8D,E784,Other hyperlipidaemia
+Cyu8E,E788,Other disorders of lipoprotein metabolism
